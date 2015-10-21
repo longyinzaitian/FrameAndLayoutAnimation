@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layoutAnimation xmlns:android="http://schemas.android.com/apk/res/android"
+    android:fillAfter="true"
+             android:duration="1000"
+             android:animation="@anim/list_item_anim2"
+             android:animationOrder="reverse"
+    >
+</layoutAnimation>

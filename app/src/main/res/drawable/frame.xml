@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@mipmap/zou1" android:duration="20"/>
+    <item android:drawable="@mipmap/zou1" android:duration="20"/>
+    <item android:drawable="@mipmap/zou2" android:duration="20"/>
+    <item android:drawable="@mipmap/zou3" android:duration="20"/>
+    <item android:drawable="@mipmap/zou4" android:duration="20"/>
+    <item android:drawable="@mipmap/zou5" android:duration="20"/>
+    <item android:drawable="@mipmap/zou6" android:duration="20"/>
+    <item android:drawable="@mipmap/zou7" android:duration="20"/>
+    <item android:drawable="@mipmap/zou8" android:duration="20"/>
+    <item android:drawable="@mipmap/zou9" android:duration="20"/>
+    <item android:drawable="@mipmap/zou10" android:duration="20"/>
+    <item android:drawable="@mipmap/zou11" android:duration="20"/>
+    <item android:drawable="@mipmap/zou12" android:duration="20"/>
+    <item android:drawable="@mipmap/zou13" android:duration="20"/>
+    <item android:drawable="@mipmap/zou14" android:duration="20"/>
+    <item android:drawable="@mipmap/zou15" android:duration="20"/>
+    <item android:drawable="@mipmap/zou16" android:duration="20"/>
+    <item android:drawable="@mipmap/zou17" android:duration="20"/>
+    <item android:drawable="@mipmap/zou18" android:duration="20"/>
+    <item android:drawable="@mipmap/zou19" android:duration="20"/>
+    <item android:drawable="@mipmap/zou20" android:duration="20"/>
+    <item android:drawable="@mipmap/zou21" android:duration="20"/>
+    <item android:drawable="@mipmap/zou22" android:duration="20"/>
+    <item android:drawable="@mipmap/zou23" android:duration="20"/>
+    <item android:drawable="@mipmap/zou24" android:duration="20"/>
+    <item android:drawable="@mipmap/zou25" android:duration="20"/>
+    <item android:drawable="@mipmap/zou26" android:duration="20"/>
+    <item android:drawable="@mipmap/zou27" android:duration="20"/>
+    <item android:drawable="@mipmap/zou28" android:duration="20"/>
+    <item android:drawable="@mipmap/zou29" android:duration="20"/>
+</animation-list>

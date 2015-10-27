@@ -12,4 +12,7 @@
 
 欢迎访问[我的博客](http://blog.csdn.net/u010156024/article/details/49308591)学习交流 ！
 
+另外，欢迎访问或者STAR我的另一个关于
+andorid的[视图动画和属性动画详细实例代码](https://github.com/longyinzaitian/AndroidAllAnimation)。
+
 如果有什么问题，请留言评论！【握手~】^_^
